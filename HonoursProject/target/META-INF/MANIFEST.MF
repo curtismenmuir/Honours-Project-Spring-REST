@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: HonoursProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: Dreads
+Start-Class: test_app.Application
+Implementation-Vendor-Id: CurtisMenmuir
+Spring-Boot-Version: 1.2.3.RELEASE
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_65
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.WarLauncher
+
